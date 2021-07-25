@@ -31,7 +31,14 @@ function readLine() {
  *
  **/
 
-//
+/** Funcion fatorial por metodo de flecha donde ponemos como condicionante una igualdad estricta para aceptar un numero mayor que cero
+*   Si es igual a cero retornara uno
+*   Si es diferente de cero entrara en la condicionante para el fatorial del numero elegido
+*-------------------------------------------------------------------------------------------------------------------------------------------
+*   Factorial function by arrow method where we put a strict equality as a condition to accept a number greater than zero
+*   If it is equal to zero, it will return one.
+*   If it is different from zero, it will enter the function for the fatorial of the chosen number
+**/
 let factorial = n =>{
     if (n === 0){
         return 1;
