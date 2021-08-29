@@ -1,4 +1,4 @@
-//Codigo realizado de ejercicio -Code carried out for the proposed exercise
+//Codigo realizado de ejercicio -Code carried out for the proposed exercise.
 function getGrade(score) {
     let grade;
 

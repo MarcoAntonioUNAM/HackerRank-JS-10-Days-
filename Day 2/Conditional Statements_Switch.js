@@ -1,4 +1,4 @@
-//Codigo realizado - Code carried out for the proposed exercise
+//Codigo realizado - Code carried out for the proposed exercise.
 function getLetter(s) {
     let letter;
     switch (s[0]) {
