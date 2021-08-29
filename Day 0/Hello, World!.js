@@ -1,17 +1,14 @@
 /**
  *   A line of code that prints "Hello, World!" on a new line is provided in the editor.
  *   Write a second line of code that prints the contents of 'parameterVariable' on a new line.
- *
  *	Parameter:
  *   parameterVariable - A string of text.
- *
  *  |-------------------------------------------------------------------------------|
  *  | Traduccion a Español para estudiantes con poco nivel de Ingles                |
  *  | Ejercicios de de la Pagina de HackerRank 10 Dias de JavaScript                |
  *  |-------------------------------------------------------------------------------|
  *   Una línea de código que imprime "¡Hola, mundo!" en una nueva línea se proporciona en el editor.
  *   Escriba una segunda línea de código que imprima el contenido de 'parameterVariable' en una nueva línea.
- *
  *   Parámetro:
  *   parameterVariable: una cadena de texto.
  **/
