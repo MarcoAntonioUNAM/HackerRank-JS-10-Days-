@@ -1,4 +1,4 @@
-//Codigo realizado - Code carried out for the proposed exercise
+//Codigo realizado- Code carried out for the proposed exercise
 function main() {
     let radio = readLine();
 

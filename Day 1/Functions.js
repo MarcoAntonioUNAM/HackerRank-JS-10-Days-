@@ -5,7 +5,6 @@
  *  | Ejercicios de de la Pagina de HackerRank 10 Dias de JavaScript                |
  *  |-------------------------------------------------------------------------------|
  *  Crea una funcion factorial aqui
- *
  **/
 
 //Codigo realizado - Code carried out for the proposed exercise

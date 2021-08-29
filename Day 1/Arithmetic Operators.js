@@ -15,8 +15,7 @@
  *  ancho: el ancho del rectángulo.
  *
  *  Devuelve un número que denota el área del rectángulo.
- **/
-/**
+ *
  *   Calculate the perimeter of a rectangle.
  *
  *	length: The length of the rectangle.
